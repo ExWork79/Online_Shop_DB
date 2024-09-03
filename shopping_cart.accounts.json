@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66c5e03188da26d9673aa6ea"
+  },
+  "username": "nam@gmail.com",
+  "password": "123456",
+  "role_id": {
+    "$oid": "66c5e0ae88da26d9673aa6fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cefca472ffea9457aad69b"
+  },
+  "username": "0935310027",
+  "password": "$2a$10$HyehVNQXO.Y6NGH36zAV2.Hqtirwa8wBn2DYXg9IFEQ3ZfNSgV6hy",
+  "role_id": {
+    "$oid": "66c5e0e188da26d9673aa6fc"
+  },
+  "__v": 0
+}]

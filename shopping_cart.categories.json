@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "66ba1c4a423c2886e5d76949"
+  },
+  "title": "Laptop",
+  "slug": "laptop"
+},
+{
+  "_id": {
+    "$oid": "66ba1c7e423c2886e5d7694a"
+  },
+  "title": "Cell phone",
+  "slug": "cell-phone"
+}]

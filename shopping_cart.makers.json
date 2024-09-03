@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66bb0b9e7cd3f635ebf342ac"
+  },
+  "title": "Samsung",
+  "slug": "samsung"
+},
+{
+  "_id": {
+    "$oid": "66bb0bb77cd3f635ebf342ad"
+  },
+  "title": "Apple",
+  "slug": "apple"
+},
+{
+  "_id": {
+    "$oid": "66cc86d00cc279ab30e70397"
+  },
+  "title": "Xiaomi",
+  "slug": "xiaomi"
+},
+{
+  "_id": {
+    "$oid": "66cc86de0cc279ab30e70398"
+  },
+  "title": "Oppo",
+  "slug": "oppo"
+}]

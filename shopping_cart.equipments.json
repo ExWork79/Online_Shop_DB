@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "66bb0c0e7cd3f635ebf342b3"
+  },
+  "name": "Iphone 15 Pro Max",
+  "description": {
+    "color": "white, black, blue, silver",
+    "ram": "3 Gb",
+    "display": "6.7 Inch",
+    "storage": "256 Gb, 512 Gb, 1 Tb"
+  },
+  "price": 28000000,
+  "slug": "iphone-15-pro-max",
+  "category": "cell-phone",
+  "maker": "apple"
+},
+{
+  "_id": {
+    "$oid": "66bb0dec7cd3f635ebf342b4"
+  },
+  "name": "Iphone 15 Pro",
+  "description": {
+    "color": "white, black, blue, silver",
+    "ram": "3 Gb",
+    "display": "6.3 Inch",
+    "storage": "256 Gb, 512 Gb, 1 Tb"
+  },
+  "price": 25000000,
+  "slug": "iphone-15-pro",
+  "category": "cell-phone",
+  "maker": "apple"
+},
+{
+  "_id": {
+    "$oid": "66bb0fd57cd3f635ebf342ba"
+  },
+  "name": "Samsung Galaxy S24 Ultra",
+  "description": {
+    "color": "white, black, blue, silver",
+    "ram": "12 Gb",
+    "display": "6.5 Inch",
+    "storage": "256 Gb, 512 Gb, 1 Tb"
+  },
+  "price": 22000000,
+  "slug": "samsung-galaxy-s24-ultra",
+  "category": "cell-phone",
+  "maker": "samsung"
+},
+{
+  "_id": {
+    "$oid": "66bb0ff67cd3f635ebf342bb"
+  },
+  "name": "Samsung Galaxy Z Fold 6",
+  "description": {
+    "color": "white, black, blue, silver",
+    "ram": "12 Gb",
+    "display": "6.5 Inch",
+    "storage": "256 Gb, 512 Gb, 1 Tb"
+  },
+  "price": 28000000,
+  "slug": "samsung-galaxy-z-fold-6",
+  "category": "cell-phone",
+  "maker": "samsung"
+},
+{
+  "_id": {
+    "$oid": "66bb21107cd3f635ebf342c2"
+  },
+  "name": "Mackbook Air 16 Inch",
+  "description": {
+    "color": "white, black, blue, silver",
+    "ram": "8 Gb",
+    "display": "16 Inch",
+    "storage": "256 Gb, 512 Gb, 1 Tb"
+  },
+  "price": 32000000,
+  "slug": "macbook-air-16-inch",
+  "category": "laptop",
+  "maker": "apple"
+},
+{
+  "_id": {
+    "$oid": "66bb301d7cd3f635ebf342c8"
+  },
+  "name": "Samsung galaxy book",
+  "description": {
+    "color": "white, black, blue, silver",
+    "ram": "8 Gb",
+    "display": "16 Inch",
+    "storage": "256 Gb, 512 Gb, 1 Tb"
+  },
+  "price": 20000000,
+  "slug": "samsung-galaxy-book",
+  "category": "laptop",
+  "maker": "samsung"
+}]

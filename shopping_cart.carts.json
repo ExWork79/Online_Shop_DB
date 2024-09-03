@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66c86a4942697eaf8faf5f91"
+  },
+  "daytime": {
+    "$date": "2024-08-23T17:00:00.000Z"
+  },
+  "items": [
+    {
+      "item_id": {
+        "$oid": "66c86e2942697eaf8faf5f94"
+      },
+      "quality": 2,
+      "cash": 100000
+    }
+  ],
+  "ispaid": false,
+  "total": 200000,
+  "customer_id": {
+    "$oid": "66c86e6a42697eaf8faf5f95"
+  }
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66c5e0ae88da26d9673aa6fb"
+  },
+  "title": "Admin",
+  "importance": true
+},
+{
+  "_id": {
+    "$oid": "66c5e0e188da26d9673aa6fc"
+  },
+  "title": "Customer",
+  "importance": false
+},
+{
+  "_id": {
+    "$oid": "66c5e0fc88da26d9673aa6fd"
+  },
+  "title": "Seller",
+  "importance": false
+}]
